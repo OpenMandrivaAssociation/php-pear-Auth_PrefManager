@@ -5,8 +5,8 @@
 
 Summary:	%{_pearname} - preferences management class
 Name:		php-pear-%{_pearname}
-Version:	1.1.4
-Release:	%mkrel 8
+Version:	1.2.0
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
