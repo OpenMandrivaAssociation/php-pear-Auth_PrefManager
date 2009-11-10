@@ -2,7 +2,7 @@
 %define 	_subclass	PrefManager
 %define		upstream_name	%{_class}_%{_subclass}
 
-Name:		php-pear-%{_pearname}
+Name:		php-pear-%{upstream_name}
 Version:	1.2.0
 Release:	%mkrel 4
 Summary:    Preferences management class
