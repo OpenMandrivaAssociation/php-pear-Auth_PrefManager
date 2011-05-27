@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.0
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:    Preferences management class
 License:	PHP License
 Group:		Development/PHP
